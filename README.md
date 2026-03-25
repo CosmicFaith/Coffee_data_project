@@ -1,4 +1,4 @@
-# Coffee_data_project
+# ComsicFaith.github.io
 Analyzing coffee sales from a vending machine in Ukraine. 
 
 # Questions 
